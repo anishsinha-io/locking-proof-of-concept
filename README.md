@@ -6,8 +6,8 @@ This small program creates a thread pool and spawns two writers and four readers
 
 To run this program, make sure you have the Rust toolchain installed. If the following commands work, you have it installed:
 <ul>
-    <li>cargo --version</li>
-    <li>rustc --version</li>
+    <li><code>cargo --version</code></li>
+    <li><code>rustc --version</code></li>
 </ul>
 
 You can download the Rust toolchain from here: [Rust Official Page](https://www.rust-lang.org/tools/install)
